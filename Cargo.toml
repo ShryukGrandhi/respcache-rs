@@ -1,0 +1,8 @@
+[package]
+name = "respcache"
+version = "0.1.0"
+edition = "2021"
+description = "An in-memory LRU cache server that speaks a subset of the Redis protocol (RESP)"
+license = "MIT"
+
+[dependencies]
